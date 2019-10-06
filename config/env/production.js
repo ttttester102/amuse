@@ -370,7 +370,7 @@ module.exports = {
   *                                                                         *
   ***************************************************************************/
   custom: {
-    baseUrl: 'https://example.com',
+    baseUrl: 'http://3.15.230.14:3000',
     internalEmailAddress: 'support@example.com',
     app_key: '2b1a3763729d25d54cbe032b590352b7',
 
